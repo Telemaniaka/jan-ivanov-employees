@@ -20,6 +20,7 @@ Running the web GUI on the build in PHP Server
 ```bash
 composer run start-dev
 ```
+and is accessible at http://localhost:8081/
 
 ## Testing
 
